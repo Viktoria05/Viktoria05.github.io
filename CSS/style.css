@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lexend+Tera&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lexend+Tera&family=Lily+Script+One&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+h1 {
+    color: rgb(224, 73, 104);
+    text-align: center;
+    font-family: 'Lily Script One', cursive;
+    font-size: 50px;
+    font-weight: 300;
+}
+h2 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+h3 {
+    color: rgb(224, 73, 104);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+h6 {
+    color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    }
+p  {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    
+}
+li {
+    color: rgb(15, 15, 15);
+    float: left;
+    
+}
+li a {
+    display: block;
+    color: rgb(104, 101, 101);
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #333;
+  }
+.navigation {
+    list-style-type: none;
+    list-style-image: none;
+    display: inline-block;
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#111 ;
+    margin-left: 25%;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: #f8f1f1;
+  }
+img {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#borkostolo {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    margin: 0 auto;
+    border: solid 2px;       
+    padding: 10px;
+    box-shadow: 0 0 10px darkgray;
+    }
+    th, td {
+        border-bottom: 1px solid rgb(192, 186, 186);
+      }
+#nyitvatartas {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    margin: 0 auto;
+    border: solid 2px;       
+    padding: 10px;
+    box-shadow: 0 0 10px darkgray;
+}
+.szoveg {
+    font-family: 'Sriracha', cursive;
+}
+#borok {
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    margin: 0 auto;     
+    padding: 10px;
+    box-shadow: 0 0 10px darkgray;
+    
+    }
+    
+.bor2020 {
+    font-weight: bold;
+    border-bottom: none;
+    border: none;
+}
+
+.fejlec {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+
+thead {
+    color: rgb(224, 73, 104);
+    list-style-image: url(../img/glass_l.png);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+iframe {
+    margin-left: 25%;
+}
