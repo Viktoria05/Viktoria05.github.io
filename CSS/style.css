@@ -23,8 +23,16 @@ h3 {
     color: rgb(224, 73, 104);
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    padding-top: 25px
 }
-
+h4 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+}
 h5 {
     text-align: center;
     font-weight: bold;
