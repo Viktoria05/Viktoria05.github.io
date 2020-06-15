@@ -62,19 +62,23 @@ li a {
     font-family: 'Roboto', sans-serif;
     padding: 14px 16px;
     text-decoration: none;
+    
+    
 }
 li a:hover {
-    background-color: #333;
+    background-color: rgb(236, 127, 163);
   }
-.navigation {
+ul.navigation {
     list-style-type: none;
     list-style-image: none;
     display: inline-block;
-     margin: 0;
-    padding: 0;
+     margin-left: 0px;
+     margin-right: 0px;
+     padding-right: 88px;
     overflow: hidden;
-    background-color:#111 ;
+    background-color:#f8f1f1;
     margin-left: 25%;
+    
 }
 a {
     display: block;
@@ -144,4 +148,10 @@ thead {
 
 iframe {
     margin-left: 25%;
+}
+p a.hivatkozas {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-align: center;
+    background:none;
 }
