@@ -82,10 +82,10 @@ ul.navigation {
     display: inline-block;
      margin-left: 0px;
      margin-right: 0px;
-     padding-right: 88px;
+     padding-right: 0px;
     overflow: hidden;
     background-color:#f8f1f1;
-    margin-left: 25%;
+    margin-left: 15%;
     
 }
 a {
