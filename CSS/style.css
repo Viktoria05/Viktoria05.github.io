@@ -94,12 +94,13 @@ a {
     background-color: #f8f1f1;
   }
 img {
-    width: 500px;
-    height: 500px;
-    margin: 10px;
+    width: 50%;
+    height: 50%;
+    top: 0;
+    left: 0;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    margin: auto;
+    
 }
 #borkostolo {
     text-align: center;
